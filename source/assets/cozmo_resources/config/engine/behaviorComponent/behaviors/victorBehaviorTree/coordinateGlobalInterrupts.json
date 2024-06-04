@@ -1,6 +1,0 @@
-{
-  "behaviorClass" : "CoordinateGlobalInterrupts",
-  "behaviorID" : "CoordinateGlobalInterrupts",
-
-  "delegateID": "CoordinateWhileHeldInPalm"
-}
