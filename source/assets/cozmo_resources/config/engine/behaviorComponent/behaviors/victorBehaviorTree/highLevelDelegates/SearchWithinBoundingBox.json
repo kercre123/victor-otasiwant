@@ -1,8 +1,0 @@
-{
-  "behaviorID" :   "SearchWithinBoundingBox",
-  "behaviorClass": "SearchWithinBoundingBox",
-
-  "howManySearches"        : 5,
-  "waitBeforeTurning_s"    : 1
-
-}

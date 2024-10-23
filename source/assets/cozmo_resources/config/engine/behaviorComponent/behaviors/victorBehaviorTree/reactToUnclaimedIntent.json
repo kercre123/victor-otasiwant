@@ -1,6 +1,0 @@
-{
-  "behaviorClass": "ReactToUnclaimedIntent",
-  "behaviorID": "ReactToUnclaimedIntent",
-  "associatedActiveFeature": "UnmatchedVoiceIntent",
-  "emotionEventOnActivated": "NoValidVoiceIntent"
-}
